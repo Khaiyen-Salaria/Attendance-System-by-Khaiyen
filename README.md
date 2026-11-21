@@ -377,6 +377,8 @@ Bug reports, suggestions, and pull requests are welcome. Before proposing a chan
 
 This project is licensed under the **MIT License**. Copyright (c) 2026 **Khaiyen Salaria**. See the [`LICENSE`](LICENSE) file for the complete license terms.
 
----
+## Project
 
-**Repository:** [Khaiyen-Salaria/Attendance-System-by-Khaiyen](https://github.com/Khaiyen-Salaria/Attendance-System-by-Khaiyen)
+-**Repository:** [Khaiyen-Salaria/Attendance-System-by-Khaiyen](https://github.com/Khaiyen-Salaria/Attendance-System-by-Khaiyen)
+- **Releases:** [Attendance_System_by_Khaiyen releases](https://github.com/Khaiyen-Salaria/Attendance-System-by-Khaiyen/releases)
+- **Status:** v1.0.0 Released
