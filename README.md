@@ -1,7 +1,7 @@
 # Attendance System by Khaiyen
 
-[![Python 3.12+](https://img.shields.io/badge/Python-3.12%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/downloads/)
-[![Flask 3.1.3](https://img.shields.io/badge/Flask-3.1.3-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Project status: v1.0.0 Release](https://img.shields.io/badge/Status-v1.0.0_Release-green)](https://github.com/Khaiyen-Salaria/Attendance-System-by-Khaiyen/releases)
+[![Built with Python](https://img.shields.io/badge/Python-Flask-blue)](https://flask.palletsprojects.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A teacher-operated web application for recording student attendance with QR codes. Teachers can verify student identity, scan QR codes to record check-ins, manage time-outs, monitor active attendance, and export attendance history as CSV. It runs with SQLite by default, with optional PostgreSQL support.
